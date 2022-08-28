@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!-- [nimek](https://user-images.githubusercontent.com/56204095/88059580-41079800-cb8f-11ea-8a10-f668fbb7a1cc.png) -->
 <img src="https://user-images.githubusercontent.com/56204095/119273842-fa634e00-bc36-11eb-9acf-d95a7944bce5.png" display="float" align="right" width="450">
  
- <br/>
+<br/></br>
 
 I am an undergraduate Informatics Engineering Student at State Polytechnic of Malang, I am a person who is interested in the field of technology 👀 and has aspirations of establishing a technology start-up company to international.
 
@@ -27,6 +27,8 @@ ___
 📫 How to reach me: <b>you can reach me in social media anything</b>
 
 💬 Ask me about anything via social media, I am very happy to answer it<br/></br>
+
+___
 
 ***My Social Media***
 
@@ -52,7 +54,7 @@ ___
 ___
 
 [![Maulana's GitHub stats](https://github-readme-stats.vercel.app/api?username=maulanabin&show_icons=true&count_private=true&theme=radical)](https://github.com/maulanabin/github-readme-stats)
-<br/>
+<br/></br>
 <p>
     <img src="https://gpvc.arturio.dev/maulanabin" />
 </p>
