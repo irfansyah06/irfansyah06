@@ -1,6 +1,5 @@
 <h2> Hello! I'm Maulana. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <!--
-**lordacil/lordacil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,6 +16,12 @@ Here are some ideas to get you started:
 <!-- [nimek](https://user-images.githubusercontent.com/56204095/88059580-41079800-cb8f-11ea-8a10-f668fbb7a1cc.png) -->
 <img src="https://user-images.githubusercontent.com/56204095/119273842-fa634e00-bc36-11eb-9acf-d95a7944bce5.png" display="float" align="right" width="450">
  
+ <br/>
+
+I am an undergraduate Informatics Engineering Student at State Polytechnic of Malang, I am a person who is interested in the field of technology 👀 and has aspirations of establishing a technology start-up company to international.
+
+___
+
 💻 I’m currently learning <b>Flutter, Laravel, and Algorithms</b>
 
 📫 How to reach me: <b>you can reach me in social media anything</b>
@@ -46,8 +51,8 @@ Here are some ideas to get you started:
 
 ___
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maulanabin&layout=compact)](https://github.com/maulanabin/github-readme-stats)<html>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</html><br>
-[![Maulanabin's github stats](https://github-readme-stats.vercel.app/api?username=maulanabin)](https://github.com/maulanabin/github-readme-stats)<br>
+[![Maulana's GitHub stats](https://github-readme-stats.vercel.app/api?username=maulanabin&show_icons=true&count_private=true&theme=radical)](https://github.com/maulanabin/github-readme-stats)
+<br/>
 <p>
     <img src="https://gpvc.arturio.dev/maulanabin" />
 </p>
