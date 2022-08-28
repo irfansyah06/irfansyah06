@@ -55,7 +55,6 @@ ___
 <p>
     <img src="https://gpvc.arturio.dev/maulanabin" />
 </p>
-___
 
 <div align="center">
   <p><b>Have a good day!</b></p>
@@ -63,4 +62,3 @@ ___
 <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
 </div>
 </div>
-___
