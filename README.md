@@ -47,7 +47,10 @@ Here are some ideas to get you started:
 ___
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maulanabin&layout=compact)](https://github.com/maulanabin/github-readme-stats)<html>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</html><br>
-[![Maulanabin's github stats](https://github-readme-stats.vercel.app/api?username=maulanabin)](https://github.com/maulanabin/github-readme-stats)
+[![Maulanabin's github stats](https://github-readme-stats.vercel.app/api?username=maulanabin)](https://github.com/maulanabin/github-readme-stats)<br>
+<p>
+    <img src="https://gpvc.arturio.dev/maulanabin" />
+</p>
 
 ___
 
