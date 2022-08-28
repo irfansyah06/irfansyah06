@@ -18,14 +18,13 @@ Here are some ideas to get you started:
 
 ___
 
-I am an undergraduate Informatics Engineering Student at State Polytechnic of Malang, I am a person who is interested in the field of technology 👀 and has aspirations of establishing a technology start-up company to international.
+I am an undergraduate Informatics Engineering Student at State Polytechnic of Malang, I am a person who is interested in the field of technology and has aspirations of establishing a technology start-up company to international.
 
 💻 I’m currently learning <b>Flutter, Laravel, and Algorithms</b>
 
 📫 How to reach me: <b>you can reach me in social media anything</b>
 
 💬 Ask me about anything via social media, I am very happy to answer it<br/></br>
-
 ___
 
 ***My Social Media***
@@ -56,7 +55,6 @@ ___
 <p>
     <img src="https://gpvc.arturio.dev/maulanabin" />
 </p>
-
 ___
 
 <div align="center">
