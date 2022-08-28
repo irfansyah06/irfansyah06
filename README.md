@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 
 ___
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordacil&layout=compact)](https://github.com/lordacil/github-readme-stats)<html>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</html>
-[![Lordacil's github stats](https://github-readme-stats.vercel.app/api?username=lordacil)](https://github.com/lordacil/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maulanabin&layout=compact)](https://github.com/maulanabin/github-readme-stats)<html>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</html><br>
+[![Maulanabin's github stats](https://github-readme-stats.vercel.app/api?username=maulanabin)](https://github.com/maulanabin/github-readme-stats)
 
 ___
 
