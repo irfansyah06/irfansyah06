@@ -24,7 +24,7 @@ I am an undergraduate Informatics Engineering Student at State Polytechnic of Ma
 
 📫 How to reach me: <b>you can reach me in social media anything</b>
 
-💬 Ask me about anything via social media, I am very happy to answer it<br/></br>
+💬 Ask me about anything via social media, I am very happy to answer it</b>
 ___
 
 ***My Social Media***
