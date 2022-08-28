@@ -42,11 +42,12 @@ Here are some ideas to get you started:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![SQL_Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ___
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maulanabin&layout=compact)](https://github.com/lordacil/github-readme-stats)<html>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</html>
-[![Maulanabin's github stats](https://github-readme-stats.vercel.app/api?username=maulanabin)](https://github.com/maulanabin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordacil&layout=compact)](https://github.com/lordacil/github-readme-stats)<html>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</html>
+[![Lordacil's github stats](https://github-readme-stats.vercel.app/api?username=lordacil)](https://github.com/lordacil/github-readme-stats)
 
 ___
 
